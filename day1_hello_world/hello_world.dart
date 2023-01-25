@@ -73,6 +73,8 @@ int fibonacci(int n) {
   return fibonacci(n - 1) + fibonacci(n - 2);
 }
 /*
+ * 
+ * Another method is :
  * int sum(int x, int y) => x + y;
  * */
 int sum(int x, int y) {
